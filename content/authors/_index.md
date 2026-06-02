@@ -14,9 +14,9 @@ interests:
 
 education:
   courses:
-    - course: "Advanced Engineering & Systems Coursework"
+    - course: "Electronics and Computer Science Engineering"
       institution: "VIT Chennai"
-    - course: "Higher Secondary Education (Uchch Madhyamik)"
+    
 
 skills:
   - name: "Systems & Intelligence"
@@ -29,7 +29,7 @@ skills:
   - name: "Mathematics & Physics"
     items:
       - "Complex Variables & Analysis"
-      - "Fluid Dynamics ($\phi$ & $\psi$ Functions)"
+      - 'Fluid Dynamics ($\phi$ & $\psi$ Functions)'
       - "Bilinear Transformations"
   
   - name: "Hardware & Simulation"
