@@ -1,5 +1,5 @@
-# Change these values to your info:
-title: Lakshhnaa
+
+title: Lakshnaa
 role: Student / Researcher
 
 interests:
