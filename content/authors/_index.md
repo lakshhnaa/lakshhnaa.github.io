@@ -1,9 +1,8 @@
----
-# To publish author profile pages, remove all the `build` and `cascade` settings below.
-build:
-  render: never
-cascade:
-  build:
-    render: never
-    list: always
----
+# Change these values to your info:
+title: Lakshhnaa
+role: Student / Researcher
+
+interests:
+  - Advanced Mathematics & Fluid Dynamics
+  - Deep Learning & Diffusion Models
+  - Embedded AI Systems
