@@ -14,39 +14,20 @@ interests:
 
 education:
   courses:
-    - course: "Electronics and Computer Science Engineering"
-      institution: "VIT Chennai"
-    
-
-skills:
-  - name: "Systems & Intelligence"
-    items:
-      - "Physics-Informed AI"
-      - "Neural Network Architectures (UNet)"
-      - "Generative Diffusion Models"
-      - "AI Compilers & Low-Latency Optimization"
-  
-  - name: "Mathematics & Physics"
-    items:
-      - "Complex Variables & Analysis"
-      - 'Fluid Dynamics ($\phi$ & $\psi$ Functions)'
-      - "Bilinear Transformations"
-  
-  - name: "Hardware & Simulation"
-    items:
-      - "LTSpice Component Simulation"
-      - "Hardware-Software Co-Design"
-      - "Verilog HDL & Structural Logic"
+    - course: "Advanced Engineering & Systems Coursework"
+      institution: "Jerusalem College"
+    - course: "Higher Secondary Education (Uchch Madhyamik)"
 ---
 
-## 🛠️ Active Repositories & Engineering Logs
+## 🛠️ Technical Focus & Domain Blueprint
 
-Welcome to my systems optimization workspace. This site functions as a direct mirror and documentation layer for my production repositories on GitHub. 
+Welcome to my systems optimization workspace. This site functions as a direct mirror and documentation layer for my engineering work.
 
-### 📐 Featured Technical Portfolios
+### 📐 1. Physics-Informed AI & Mathematical Modeling
+Mapping heavy analytical frameworks—such as complex variables, velocity potential ($\phi$), and stream functions ($\psi$) in fluid dynamics—directly into computational frameworks and advanced physical models.
 
-*   **Mathematical Systems Modeling:** Rigorous analysis files exploring fluid potential mechanics, boundary layers, and the analyticity of complex variables mapped directly into computing structures.
-*   **Deep Learning Mechanics under the Hood:** Implementations debugging neural network layer configurations, optimization weights, and vision framework processing pipelines.
-*   **Hardware Co-Design & LTSpice Simulations:** Verified circuit configurations, tracking exact component-level calculation formulas and simulation diagnostics.
+### 🧠 2. Deep Learning Mechanics & Vision Systems
+Analyzing the underlying mathematical mechanics of neural topologies. This includes evaluating generative diffusion models, configuring custom network layer architectures, and debugging optimization pipelines (e.g., diagnosing parameter weight performance inside UNet configurations).
 
-👉 *Review the complete source trees and commit histories directly on my [GitHub Profile](https://github.com/lakshhnaa).*
+### ⚡ 3. Hardware-Software Co-Design & Embedded Simulation
+Treating computing logic and physical electronics as a singular, unified platform. This involves component-level hardware configurations using **LTSpice** (tracking precise calculation formulas and verified circuit values) alongside structural logic optimization for high-throughput, low-latency environments.
